@@ -55,8 +55,8 @@
 
 - 🧩 **[Cardly](https://github.com/developer2520/cardly)** – A personal card/profile builder like Taplink/Linktree, but better  
 - 🎁 **Telegram Mini Giveaway App** – Create & manage giveaways with Telegram Stars integration  
-- 📘 **AI Book Summarizer** – Search books, view summaries, ask intelligent questions using OpenAI  
-- 📚 **Learning** – Diving deeper into Bun, WebAssembly, and AI-powered backend systems
+
+
 
 ---
 
