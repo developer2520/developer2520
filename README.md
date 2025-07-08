@@ -50,7 +50,4 @@ Whether you're a solo entrepreneur or an established team, I can **take your ide
 
 ---
 
-### 🌐 Connect With Me
-- 💼 [Upwork Profile](#) *(Insert your Upwork link here)*
-- 🧠 [Cognilabs Website](#) *(Insert website if available)*
-- 💌 Email: *(Insert email if public)*
+
