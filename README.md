@@ -1,6 +1,6 @@
 <!-- README.md for developer2520 -->
 
-<h1 align="center">🚀 Muhammadali | Full-Stack Developer</h1>
+<h1 align="center">🚀 Abror | 16 y.o Full-Stack Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Front-End+Developer;React%2C+TypeScript%2C+Tailwind+Enthusiast;Node%2C+Bun%2C+MongoDB+Fullstack;Clean+Code+%7C+Fast+UX+%7C+Terminal+Life" alt="Typing SVG" />
