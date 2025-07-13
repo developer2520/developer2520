@@ -1,53 +1,29 @@
-# 👨‍💻 Mukhamadaliy K. — Full-Stack Developer | AI & Chatbot Engineer
-
-Hi, I'm **Mukhamadaliy**, founder of **Cognilabs** and a passionate software developer and consultant.  
-I specialize in building **robust full-stack applications**, managing **IT infrastructures**, and leveraging **AI & chatbot technologies** to solve real-world problems.
-
----
-
-## 🚀 What I Do
-
-I help startups, small businesses, and enterprises:
-- 💡 Build new digital platforms from scratch
-- 🔧 Optimize and maintain existing systems
-- 🤖 Implement AI and chatbot solutions to streamline operations
-
-Whether you're a solo entrepreneur or an established team, I can **take your idea from planning to deployment**—smoothly and efficiently.
-
----
-
-## 🛠️ Tech Stack
-
-### Full-Stack Development
-- **Frontend**: HTML5, CSS3, jQuery, WordPress
-- **Backend**: Java, PHP, Python, Flask, Django
-- **Databases & Tools**: MySQL, REST APIs
-- **DevOps & Infra**: IT infrastructure management at scale
-
----
-
-## 🧠 AI & Chatbot Expertise
-- Integrate **AI-driven features** to boost business efficiency
-- Design and deploy **smart chatbot systems**
-- Passionate about applying **machine learning** to real-world business use cases
-
----
-
-## 🏆 Highlights
-
-- 🧑‍💼 **Founder of Cognilabs** – overseeing end-to-end development projects
-- 🧩 Led IT HR teams and managed large-scale software initiatives
-- 🤝 Believer in **clear, frequent communication** and smooth workflows
-- 🔁 Fully committed to delivering **solutions that just work**
-
----
-
-## 🤝 Let’s Collaborate
-
-> “Let’s work together to bring your ideas to life. I’ll handle the technical details so you can focus on growing your business.”
-
-📫 Reach out anytime — I'm always ready to discuss your next project.
-
----
 
 
+# abboskhonov
+
+Hi, I’m Abror — a 16 y/o full-stack developer from Uzbekistan.
+
+I enjoy building developer tools, AI platforms, and beautiful UIs using:
+
+ts
+React · Next.js · TypeScript · Node.js · Express · MongoDB
+TailwindCSS · Shadcn UI · Linux · Vercel · Render
+
+🚀 Projects
+
+    Cardly – a mini-page builder like Linktree (custom URLs, profiles, analytics)
+
+    ExtraGPT – AI chatbot + sales agents platform (Next.js + FastAPI)
+
+    Typing Game for Devs – real-time game with leaderboard and code snippets
+
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abboskhonov&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&hide_rank=true&count_private=true" width="400" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=abboskhonov&theme=tokyonight&hide_border=true" width="400" /> </p>
+📫 Reach Me
+
+    Telegram: @abboskhonov
+
+    Email: you@example.com
+
+<p align="center"> <img src="https://raw.githubusercontent.com/abboskhonov/abboskhonov/output/github-contribution-grid-snake.svg" width="100%" /> </p> ```
